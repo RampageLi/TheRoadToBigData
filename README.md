@@ -1,13 +1,9 @@
 # 数据开发新人文档
 ## 1. 基础知识
 
----
-
 + [开发环境搭建](https://bbtwiki.bangbangtown.cn/doku.php?id=fresh:envbuild)
 
 ## 2. 项目复盘
-
----
 
 + [基于价格维度进行商品召回](https://bbtwiki.bangbangtown.cn/doku.php?id=fresh:pricerec)
 
